@@ -9,16 +9,16 @@
   :fire: I aim to become a ComputerVision AI Engineer.<br/>
   
   
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
+📚 Studying 📚</h3>
+
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-</div>
 
 
-<div align="center">
+
+MY GitHub stats<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjw4260&show_icons=true&theme=radical)
 
