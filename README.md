@@ -1,8 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
-[header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&animation=twinkling&text=Jung%20Woong's%20Github%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&animation=twinkling&text=Jung%20Woong's%20Github%20%F0%9F%A4%97)
 </div>
-👀 About Me
+👀 About Me<br/>
   :raising_hand: I am a Computer Engineer student from South Korea.<br/>
   :fire: I aim to become a ComputerVision AI Engineer.<br/>
   :mortar_board: I am a Yeungnam University.<br/>
