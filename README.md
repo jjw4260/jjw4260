@@ -4,9 +4,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-</div>
 
-<div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
