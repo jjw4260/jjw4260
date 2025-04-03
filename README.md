@@ -1,10 +1,10 @@
 <div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&animation=scaleIn&text=Jung%20Woong's%20Github%20%F0%9F%A4%97)
-
 </div>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<br>
+
+<h3 align="center">📚 Studying 📚</h3>
 <div align="center">
 </div>
 
@@ -13,6 +13,8 @@
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 </div>
+
+<br>
 
 <div align="center">
 
