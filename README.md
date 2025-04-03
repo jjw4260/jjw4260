@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Jung%20Woong%20Github%20%F0%9F%A4%97))
+<div>
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Jung%20Woong%20Github%20%F0%9F%A4%97))
+</div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/>
 
 ![Jung Woong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjw4260&show_icons=true&theme=radical)
