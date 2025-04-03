@@ -2,8 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&animation=scaleIn&text=Jung%20Woong's%20Github%20%F0%9F%A4%97)
 </div>
 
-<br>
-
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
 </div>
