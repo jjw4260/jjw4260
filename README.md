@@ -4,9 +4,10 @@
   
 </div>
 👀 About Me<br/>
-  :raising_hand: I am a Computer Engineer student from South Korea.<br/>
-  :fire: I aim to become a ComputerVision AI Engineer.<br/>
+  :raising_hand: I am a computer engineering student from South Korea.<br/>
   :mortar_board: I am a Yeungnam University.<br/>
+  :fire: I aim to become a ComputerVision AI Engineer.<br/>
+  
   
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
