@@ -8,7 +8,7 @@
   :mortar_board: I am a Yeungnam University's Student.<br/>
   :fire: I aim to become a ComputerVision AI Engineer.<br/>
 
-  <div>
+</div>
   
 📚 Studying 📚</h3>
 
