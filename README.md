@@ -7,7 +7,8 @@
   :raising_hand: I am a computer engineering student from South Korea.<br/>
   :mortar_board: I am a Yeungnam University's Student.<br/>
   :fire: I aim to become a ComputerVision AI Engineer.<br/>
-  
+
+  <div>
   
 📚 Studying 📚</h3>
 
